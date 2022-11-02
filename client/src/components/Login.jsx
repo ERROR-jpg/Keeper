@@ -1,9 +1,12 @@
-import { response } from "express";
+
 import React from "react";
 import { useState } from "react";
 
-function App() {
 
+
+function Login() {
+
+  
   const [email, setEmail] = useState(" ");
   const [password, setPassword] = useState(" ");
 
@@ -21,7 +24,7 @@ function App() {
 
         })
     });
-    const data = await response.json();
+    
 
     
   }
@@ -47,4 +50,7 @@ function App() {
       </form>
     </div>
   );
+ 
 }
+
+export default Login
