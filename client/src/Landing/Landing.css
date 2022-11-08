@@ -1,0 +1,22 @@
+.body {
+    background-color: #E8ECEF;
+  }
+  
+  .centered {
+      padding-top: 200px;
+      text-align: center;
+  }
+  .svg_icon{
+    transform: scale(3.5);
+    color: #FEB139;
+  }
+  .reg{
+    color: #FEB139;
+  }
+    .reg:hover{
+        color: #e7bb41;
+    }
+  .log{
+    color: #FEB139;
+  }
+
