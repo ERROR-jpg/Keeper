@@ -49,7 +49,11 @@ const Login = ({ history }) => {
                         </label>
                     </div>
 
+<<<<<<< HEAD
                         <div className="form-row final">
+=======
+                        <div className="form-row">
+>>>>>>> refs/remotes/origin/main
                             <button type="submit">Log in</button>
                         </div>
 
@@ -60,7 +64,11 @@ const Login = ({ history }) => {
 
                 </div>
 
+<<<<<<< HEAD
                 {/* <div className="form-sign-in-with-social">
+=======
+                <div className="form-sign-in-with-social">
+>>>>>>> refs/remotes/origin/main
 
                     <div className="form-row form-title-row">
                         <span className="form-title">Sign in with</span>
@@ -70,10 +78,17 @@ const Login = ({ history }) => {
                     <a href="#" className="form-facebook-button">Facebook</a>
                     <a href="#" className="form-twitter-button">Twitter</a>
 
+<<<<<<< HEAD
                 </div> */}
 
             </form>
             {/* <Footer/> */}
+=======
+                </div>
+
+            </form>
+            <Footer/>
+>>>>>>> refs/remotes/origin/main
         </div>
         </div>
 

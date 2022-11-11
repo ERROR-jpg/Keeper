@@ -1,6 +1,9 @@
 .navbar{
     display: flex;
+<<<<<<< HEAD
   
+=======
+>>>>>>> refs/remotes/origin/main
     justify-content: space-between;
     height: 60px;
     background: #FEB139;  /* fallback for old browsers */
@@ -15,8 +18,12 @@
     align-self: center;
     color: white;
     font-family: "McLaren", cursive;
+<<<<<<< HEAD
     font-weight: 500;
     font-size: x-large;
+=======
+    font-weight: 200;
+>>>>>>> refs/remotes/origin/main
 }
 
 #profile-menu{

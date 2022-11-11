@@ -2,6 +2,7 @@ html{
     background-color: #f3f3f3;
 }
 .main-body{
+<<<<<<< HEAD
     /* background-image: url("https://www.transparenttextures.com/patterns/cubes.png"); */
         
     margin: 0px;
@@ -10,6 +11,12 @@ html{
 body{
     padding: 0px;
 }
+=======
+    background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+        
+    margin: 0px;
+}
+>>>>>>> refs/remotes/origin/main
 .main-content{
     padding-top: 50px;
 }
@@ -35,8 +42,13 @@ body{
     box-sizing: border-box;
     background-color: #ffffff;
     box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+<<<<<<< HEAD
     padding: 30px 40px;
     margin-bottom: 25px;
+=======
+    padding: 60px 80px;
+    margin-bottom: 35px;
+>>>>>>> refs/remotes/origin/main
 }
 
 .form-register-with-email .form-row{
@@ -120,7 +132,11 @@ body{
 }
 
 .form-register-with-email:after{
+<<<<<<< HEAD
     /* content: 'OR'; */
+=======
+    content: 'OR';
+>>>>>>> refs/remotes/origin/main
     position: absolute;
     bottom: 330px;
     right: -100px;
@@ -197,10 +213,13 @@ body{
     text-decoration: none;
 }
 
+<<<<<<< HEAD
 
 .form-row.final{
     margin-top: -55px;
 }
+=======
+>>>>>>> refs/remotes/origin/main
 /*	Making the form responsive. Remove these media queries
     if you don't need the form to work on mobile devices. */
 
