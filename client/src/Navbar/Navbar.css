@@ -5,7 +5,7 @@
     background: #FEB139;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #FEB139, #e7bb41);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #FEB139, #e7bb41); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-    min-width: 110%;
+    min-width: 100%;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
 }
 
@@ -14,7 +14,8 @@
     align-self: center;
     color: white;
     font-family: "McLaren", cursive;
-    font-weight: 200;
+    font-weight: 500;
+    font-size: x-large;
 }
 
 #profile-menu{

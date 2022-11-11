@@ -6,11 +6,11 @@
 html {
   font-family: "Montserrat", sans-serif;
 }
-body {
+ body {
   background: #eee;
-  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
-  padding: 0 16px;
-}
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");  
+  padding: 0 16px; 
+} 
 
 header {
   background-color: #f5ba13;

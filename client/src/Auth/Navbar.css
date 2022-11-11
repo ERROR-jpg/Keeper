@@ -1,5 +1,6 @@
 .navbar{
     display: flex;
+  
     justify-content: space-between;
     height: 60px;
     background: #FEB139;  /* fallback for old browsers */
@@ -14,7 +15,8 @@
     align-self: center;
     color: white;
     font-family: "McLaren", cursive;
-    font-weight: 200;
+    font-weight: 500;
+    font-size: x-large;
 }
 
 #profile-menu{

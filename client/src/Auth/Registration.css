@@ -2,9 +2,13 @@ html{
     background-color: #f3f3f3;
 }
 .main-body{
-    background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+    /* background-image: url("https://www.transparenttextures.com/patterns/cubes.png"); */
         
     margin: 0px;
+}
+
+body{
+    padding: 0px;
 }
 .main-content{
     padding-top: 50px;
@@ -31,8 +35,8 @@ html{
     box-sizing: border-box;
     background-color: #ffffff;
     box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
-    padding: 60px 80px;
-    margin-bottom: 35px;
+    padding: 30px 40px;
+    margin-bottom: 25px;
 }
 
 .form-register-with-email .form-row{
@@ -116,7 +120,7 @@ html{
 }
 
 .form-register-with-email:after{
-    content: 'OR';
+    /* content: 'OR'; */
     position: absolute;
     bottom: 330px;
     right: -100px;
@@ -193,6 +197,10 @@ html{
     text-decoration: none;
 }
 
+
+.form-row.final{
+    margin-top: -55px;
+}
 /*	Making the form responsive. Remove these media queries
     if you don't need the form to work on mobile devices. */
 

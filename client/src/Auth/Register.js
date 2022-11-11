@@ -69,7 +69,7 @@ function Register({history}) {
                         </label>
                     </div> */}
 
-                    <div className="form-row">
+                    <div className="form-row final">
                         <button type="submit">Register</button>
                     </div>
 
@@ -79,7 +79,7 @@ function Register({history}) {
 
             </div>
 
-            <div className="form-sign-in-with-social">
+            {/* <div className="form-sign-in-with-social">
 
                 <div className="form-row form-title-row">
                     <span className="form-title">Sign in with</span>
@@ -89,12 +89,12 @@ function Register({history}) {
                 <a href="#" className="form-facebook-button">Facebook</a>
                 <a href="#" className="form-twitter-button">Twitter</a>
 
-            </div>
+            </div> */}
 
         </form>
 
     </div>
-    <Footer/> 
+    {/* <Footer/>  */}
     </div>
     )
 }

@@ -49,7 +49,7 @@ const Login = ({ history }) => {
                         </label>
                     </div>
 
-                        <div className="form-row">
+                        <div className="form-row final">
                             <button type="submit">Log in</button>
                         </div>
 
@@ -60,7 +60,7 @@ const Login = ({ history }) => {
 
                 </div>
 
-                <div className="form-sign-in-with-social">
+                {/* <div className="form-sign-in-with-social">
 
                     <div className="form-row form-title-row">
                         <span className="form-title">Sign in with</span>
@@ -70,10 +70,10 @@ const Login = ({ history }) => {
                     <a href="#" className="form-facebook-button">Facebook</a>
                     <a href="#" className="form-twitter-button">Twitter</a>
 
-                </div>
+                </div> */}
 
             </form>
-            <Footer/>
+            {/* <Footer/> */}
         </div>
         </div>
 
